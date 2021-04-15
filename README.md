@@ -1,6 +1,6 @@
 # DL Project: Shopee Product Match
 
-Preface: *This is an ongoing project, I plan but cannot guarantee to update the lastest process in this repo. If you find here via the link in my resume, I hope you may catch a big picture of this projec a bit :).*
+Preface: *This is an ongoing project, I plan but cannot guarantee to update the lastest process in this repo. If you find here via the link in my resume, I hope you may catch a big picture of this project a bit if some contents were already uploaded :).*
 
 Uses deep learning techniques in CV and NLP to catch the same product on e-commerce platform Shopee (Source: [Kaggle](https://www.kaggle.com/c/shopee-product-matching/overview)).
 
