@@ -8,7 +8,7 @@ Uses deep learning techniques in CV and NLP to catch the same product on e-comme
 
 Each product has an image and a short title description. We're trying to match all of the duplicates.
 
-In total, we have 32,412 training data and 70,000 test data. For more information, see the [data](https://www.kaggle.com/c/shopee-product-matching/data) introduction.
+In total, we have 32,412 training data and 70,000 test data. For more information, see the [data introduction](https://www.kaggle.com/c/shopee-product-matching/data).
 
 ## Models
 
