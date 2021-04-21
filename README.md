@@ -20,7 +20,7 @@ In total, we have 32,412 training data and 70,000 test data. For more informatio
 
 ### Natural Language Processing
 
-* If-Idf
+* TF-IDF
 * Word2Vec (CBOW & Skip-gram)
 * BRET
 
