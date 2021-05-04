@@ -31,5 +31,11 @@ The higest accuracy is 97%.
 ## Evaluations
 
 ![](Assets/F1-Score.jpg)
-![](Assets/triplet-loss-curve.png)
-![](Assets/accuracy-score-curve.png)
+
+<div id="over" style="position:absolute;text-align:center; width:50%; height:50%">
+  <img src="Assets/triplet-loss-curve.png">
+</div>
+
+<div id="over" style="position:absolute;text-align:center; width:50%; height:50%">
+  <img src="Assets/accuracy-score-curve.png">
+</div>
