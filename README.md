@@ -2,9 +2,11 @@
 
 # DL Project: Shopee Product Match
 
-**Authoers:** Yifei Li, Waleed Algadhi
+**Authors:** Yifei Li, Waleed Algadhi
 
 Uses deep learning techniques in CV and NLP to catch the same product on e-commerce platform Shopee (Source: [Kaggle](https://www.kaggle.com/c/shopee-product-matching/overview)).
+
+For more detail, see the [report](./Shopee_Product_Match_Report.pdf)
 
 ## Problem Formulation:
 
@@ -22,5 +24,12 @@ Natural language processing and computer vision
 
 The higest accuracy is 97%.
 
+## Matching Products
+
 ![](Assets/Match-Products.jpg)
+
+## Evaluations
+
 ![](Assets/F1-Score.jpg)
+![](Assets/triplet-loss-curve.png)
+![](Assets/accuracy-score-curve.png)
