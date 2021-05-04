@@ -6,17 +6,17 @@
 
 Uses deep learning techniques in CV and NLP to catch the same product on e-commerce platform Shopee (Source: [Kaggle](https://www.kaggle.com/c/shopee-product-matching/overview)).
 
-For more detail, see the [report](./Shopee_Product_Match_Report.pdf)
+For more detail, see the [report](./Shopee_Product_Match_Report.pdf).
 
 ## Problem Formulation:
 
 Each product has an image and a short title description. We're trying to match all of the duplicates.
 
-In total, we have 32,412 training data and 70,000 test data. For more information, see the [data introduction](https://www.kaggle.com/c/shopee-product-matching/data).
+In total, we have 32,412 training data and 70,000 test data, with around 10,000 classes. For more information, see the [data introduction](https://www.kaggle.com/c/shopee-product-matching/data).
 
 ## Models
 
-Natural language processing and computer vision
+Natural language processing and computer vision.
 
 ![](Assets/arch-overall.jpg)
 
@@ -26,16 +26,10 @@ The higest accuracy is 97%.
 
 ## Matching Products
 
-![](Assets/Match-Products.jpg)
+![](Assets/match-products.jpg)
 
 ## Evaluations
 
-![](Assets/F1-Score.jpg)
+![](Assets/f1-score.jpg)
 
-<div id="over" style="position:absolute;text-align:center; width:50%; height:50%">
-  <img src="Assets/triplet-loss-curve.png">
-</div>
-
-<div id="over" style="position:absolute;text-align:center; width:50%; height:50%">
-  <img src="Assets/accuracy-score-curve.png">
-</div>
+![](Assets/triplet-and-acc.jpg)
