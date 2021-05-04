@@ -6,7 +6,7 @@
 
 Uses deep learning techniques in CV and NLP to catch the same product on e-commerce platform Shopee (Source: [Kaggle](https://www.kaggle.com/c/shopee-product-matching/overview)).
 
-For more detail, see the [report](./Shopee_Product_Match_Report.pdf).
+For more detail, see the [report](./Shopee_Product_Match_Report.pdf) and [notebooks](/notebooks).
 
 ## Problem Formulation:
 
