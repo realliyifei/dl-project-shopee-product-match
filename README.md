@@ -1,4 +1,4 @@
-![](/Assets/shopee.jpg)
+![](/Assets/shopee.png)
 
 # DL Project: Shopee Product Match
 
