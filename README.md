@@ -1,6 +1,8 @@
+![](/Assets/shopee.jpg)
+
 # DL Project: Shopee Product Match
 
-Preface: *This is an ongoing project, I plan but cannot guarantee to update the lastest process in this repo. If you find here via the link in my resume, I hope you may catch a big picture of this project a bit if some contents were already uploaded :).*
+**Authoers:** Yifei Li, Waleed Algadhi
 
 Uses deep learning techniques in CV and NLP to catch the same product on e-commerce platform Shopee (Source: [Kaggle](https://www.kaggle.com/c/shopee-product-matching/overview)).
 
@@ -12,23 +14,13 @@ In total, we have 32,412 training data and 70,000 test data. For more informatio
 
 ## Models
 
-### Computer Vision
+Natural language processing and computer vision
 
-* ResNet
-* CNN
-* ...
+![](Assets/arch-overall.jpg)
 
-### Natural Language Processing
+## Results
 
-* TF-IDF
-* Word2Vec (CBOW & Skip-gram)
-* BRET
+The higest accuracy is 97%.
 
-### Results
-
-TBA
-
-## Refs
-
-
-## Credits 
+![](Assets/Match-Products.jpg)
+![](Assets/F1-Score.jpg)
