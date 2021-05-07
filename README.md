@@ -16,7 +16,7 @@ In total, we have 32,412 training data and 70,000 test data, with around 10,000 
 
 ## Models
 
-Zero-shot learning, natural language processing, and computer vision.
+Zero-shot learning, natural language processing, computer vision, and triplet loss function.
 
 Notes: VGG and Faiss are not finished due to the time limitation.
 
