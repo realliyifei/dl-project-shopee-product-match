@@ -16,13 +16,13 @@ In total, we have 32,412 training data and 70,000 test data, with around 10,000 
 
 ## Models
 
-Natural language processing and computer vision.
+Natural language processing and computer vision (VGG and Faiss are not finished due to the time limitation)
 
 ![](Assets/arch-overall.jpg)
 
 ## Results
 
-The higest accuracy is 97%.
+The higest accuracy is **97%**
 
 ### Matching Products
 
@@ -33,3 +33,4 @@ The higest accuracy is 97%.
 ![](Assets/f1-score.jpg)
 
 ![](Assets/triplet-and-acc.jpg)
+
