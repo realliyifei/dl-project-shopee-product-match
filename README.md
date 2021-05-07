@@ -16,7 +16,9 @@ In total, we have 32,412 training data and 70,000 test data, with around 10,000 
 
 ## Models
 
-Natural language processing and computer vision (VGG and Faiss are not finished due to the time limitation)
+Zero-shot learning, natural language processing, and computer vision.
+
+Notes: VGG and Faiss are not finished due to the time limitation.
 
 ![](Assets/arch-overall.jpg)
 
