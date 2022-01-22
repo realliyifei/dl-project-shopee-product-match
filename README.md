@@ -1,4 +1,4 @@
-![](/Assets/shopee.png)
+![](assets/shopee.png)
 
 # DL Project: Shopee Product Match
 
@@ -6,7 +6,7 @@
 
 Uses deep learning techniques in CV and NLP to catch the same product on e-commerce platform Shopee (Source: [Kaggle](https://www.kaggle.com/c/shopee-product-matching/overview)).
 
-For more detail, see the [report](/Shopee_Product_Match_Report.pdf) and [notebooks](/Notebooks).
+For more detail, see the [report](report.pdf) and [notebooks](/notebooks).
 
 ## Problem Formulation:
 
@@ -20,7 +20,7 @@ Zero-shot learning, natural language processing, computer vision, and triplet lo
 
 Notes: VGG and Faiss are not finished due to the time limitation.
 
-![](Assets/arch-overall.jpg)
+![](assets/arch-overall.jpg)
 
 ## Results
 
@@ -28,11 +28,11 @@ The higest accuracy is **97%**
 
 ### Matching Products
 
-![](Assets/match-products.jpg)
+![](assets/match-products.jpg)
 
 ### Evaluations
 
-![](Assets/f1-score.jpg)
+![](assets/f1-score.jpg)
 
-![](Assets/triplet-and-acc.jpg)
+![](assets/triplet-and-acc.jpg)
 
